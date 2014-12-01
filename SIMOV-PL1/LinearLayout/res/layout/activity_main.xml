@@ -1,0 +1,50 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="${relativePackage}.${activityClass}" >
+
+    <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        
+        <TextView android:id="@+id/textview__label1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#aa0000"
+            android:background="#101010"
+            android:text="@string/text_message"/>
+        
+        <TextView android:id="@+id/textview_label2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#00aa00"
+            android:background="#afafaf"
+            android:text="@string/text_message"/>
+        
+    </LinearLayout>
+    
+    <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        
+        <TextView android:id="@+id/textview__label3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#0000aa"
+            android:background="#aa0000"
+            android:text="@string/text_message"/>
+        
+        <TextView android:id="@+id/textview_label4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#0a0a0a"
+            android:background="#555555"
+            android:text="@string/text_message"/>
+        
+    </LinearLayout>
+
+</LinearLayout>

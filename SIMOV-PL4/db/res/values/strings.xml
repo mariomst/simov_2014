@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">db</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_main">PeopleActivity</string>
+    <string name="title_activity_details">DetailsActivity</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="add_person">Add</string>
+    <string name="edit_person">Edit</string>
+      
+
+</resources>

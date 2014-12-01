@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SimovAPP1</string>
+    <string name="hello_world">Hello world!</string>
+    <string-array name="users">
+        <item>Pedro</item>
+        <item>Maria</item>
+        <item>Joana</item>
+        <item>Carlos</item>
+        <item>Fábio</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">List View</string>
+    <string name="hello_world">Hello world!</string>
+    <string-array name="students">
+        <item>Pedro Almeida</item>
+        <item>Paulo Ribeiro</item>
+        <item>Rita Sousa</item>
+        <item>Matilde Sousa</item>
+        <item>Matilde Coelho</item>
+        <item>Dinis Sousa</item>
+        <item>Carla Pereira</item>
+        <item>Maria Vieira</item>
+        <item>Joaquim Vieira</item>
+        <item>José Santos</item>
+        <item>Carlos Freitas</item>
+        <item>Pedro Coelho</item>
+    </string-array>
+
+</resources>
