@@ -28,4 +28,4 @@ Exercícos realizados para a disciplina SIMOV (Sistemas Móveis) do Mestrado de 
 * Eclipse IDE para Android
 
 ### Autores ###
-* Mário Teixeira [1090626](1090626@isep.ipp.pt)
+* Mário Teixeira [1090626](mailto:1090626@isep.ipp.pt)
